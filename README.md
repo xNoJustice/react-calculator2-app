@@ -1,3 +1,5 @@
+<img src="https://github.com/xNoJustice/react-calculator2-app/blob/69ff245fb2e00c6b33023c272be8db0ff22898e1/calculator2.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
